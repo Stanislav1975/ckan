@@ -38,7 +38,7 @@ python-magic==0.4.24      # via -r requirements.in
 pytz==2021.1              # via -r requirements.in, babel, flask-babel, tzlocal
 pyutilib==6.0.0           # via -r requirements.in
 pyyaml==5.4.1             # via -r requirements.in
-redis==3.5.3              # via rq
+redis==4.3.6              # via rq
 repoze.who==2.3           # via -r requirements.in
 requests==2.25.1          # via -r requirements.in, pysolr
 rq==1.9.0                 # via -r requirements.in
